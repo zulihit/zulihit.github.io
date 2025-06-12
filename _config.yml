@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lizheng Zu's Academic Homepage"
-description              : "Ph.D. Candidate | Knowledge Graphs · Multi-Agent Systems · Large Language Models · Time Series. "
+description              : "Focus on Knowledge Graphs, Multi-Agent Systems, Large Language Models and Time Series. "
 repository               : "zulihit.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zu Lizheng"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Harbin, China"
+  avatar           : "images/me.png"
+  bio              :
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Jz0LqbsAAAAJ"
