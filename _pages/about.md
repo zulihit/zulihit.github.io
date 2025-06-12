@@ -40,7 +40,7 @@ I am fortunate to be supervised by <a href="https://homepage.hit.edu.cn/linlin?l
 - *2024.10*: 🎓 Started joint Ph.D. program with **NTU, Singapore**, under Prof. Siu Cheung Hui.
 - *2024.08*: 📄 Paper on entity linking accepted to **Information Systems (IF: 3, CCF B)**.  
 - *2024.06*: 📄 Paper on time-series anomaly detection accepted to **EAAI (IF: 7.5)**.  
-- *2024.03*: 🎓 Started visiting research at **SMU**, working with Prof. Pan Zhou.  
+- *2024.03*: 🎓 Started visiting research at **SMU, Singapore**, working with Prof. Pan Zhou.  
 - *2024.03*: 📄 Paper on knowledge graph embedding accepted to **ESWA (IF: 7.5)**.  
 - *2024.02*: 💼 Joined **TAL** as a research intern.  
 - *2024.02*: 📄 Paper on knowledge graph representation learning accepted to **KBS (IF: 7.2)**.  
