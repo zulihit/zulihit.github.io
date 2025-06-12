@@ -98,8 +98,8 @@ I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and P
 ---
 
 ## 💻 Internships
-- *2023.09 – 2023.12*, Research Intern, Zhipu AI
-- *2024.02 – 2025.06*, Research Intern, TAL
+- *2023.09 – 2023.12*, Research Intern, AI Technology Center, Zhipu AI
+- *2024.02 – 2025.06*, Research Intern, AIGrowth Lab, TAL
 
 ---
 
