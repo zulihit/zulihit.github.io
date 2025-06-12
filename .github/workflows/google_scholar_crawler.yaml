@@ -1,9 +1,13 @@
 name: Get Citation Data
 
-on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+#on:
+# page_build:
+# schedule:
+#  - cron:  '0 8 * * *'
+
+on:
+  workflow_dispatch:  # 手动触发
+
 
 jobs:
   build:
