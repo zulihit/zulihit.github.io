@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a fourth-year Ph.D. candidate at the School of Mechatronics Engineering, Harbin Institute of Technology (HIT), and currently a joint Ph.D. student at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore.
-I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and Prof. Siu Cheung Hui at NTU. I have also closely collaborated with Prof. Pan Zhou.
+I am fortunate to be supervised by [Prof. Lin Lin](https://homepage.hit.edu.cn/linlin?lang=zh) and [Prof. Song Fu](https://homepage.hit.edu.cn/fusong?lang=zh) at HIT, and [Prof. Siu Cheung Hui](https://personal.ntu.edu.sg/asschui/) at NTU. I have also closely collaborated with [Prof. Pan Zhou](https://panzhous.github.io/).
 
 ---
 
@@ -66,6 +66,7 @@ I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and P
 
 <span id="-leadership-publication-work"></span>
 # 📝 Publications
+<sub>$^{\star}$ denotes corresponding author</sub>
 - [1] **Zu L.**, Lin L.$^{\star}$, Fu S.$^{\star}$, et al., *Collaborative Tree Search for Enhancing Embodied Multi‑Agent Collaboration*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025: 29513–29522. 
 
 - [2] **Zu L.**, Lin L.$^{\star}$, Liu J., et al., *SRSCL: A Strong‑Relatedness‑Sequence‑Based Fine‑Grained Collective Entity Linking Method for Heterogeneous Information Networks*, *Expert Systems with Applications*, 2024, **238**: 121759. 
@@ -93,9 +94,10 @@ I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and P
 ## 📖 Educations
 - *2021.09 – Present*, Ph.D. in Mechanical Engineering, Harbin Institute of Technology, China
 - *2024.10 – Present*, Joint Ph.D. in the College of Computing and Data Science, Nanyang Technological University, Singapore  
+- *2020.10 – 2021.01*, Exchange Student in Big Data Program, McGill University, Canada  
 - *2018.09 – 2021.07*, M.S. in Mechanical Engineering, Yanshan University, China 
 - *2013.09 – 2017.06*, B.Eng. in Mechanical Engineering, Yanshan University, China 
-- *2020.10 – 2021.01*, Exchange Program, McGill University, Canada  
+
 
 
 ---
