@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zu Lizheng"
-description              : "Focus on Knowledge Graphs, Multi-Agent Systems, Large Language Models and Time Series. "
+description              : "Focus on Knowledge Graphs, LLM-based Agents and Time Series. "
 repository               : "zulihit.github.io"
 google_scholar_stats_use_cdn : true
 
