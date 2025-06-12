@@ -9,7 +9,7 @@
  *  - https://twitter.com/mmistakes
  *
 */
-@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Hand&display=swap');
+//@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Hand&display=swap');
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
@@ -111,9 +111,9 @@ h1:before, .anchor:before {
 }
 
 
-body {
-  font-family: 'Edu SA Hand', cursive;
-  font-size: 1.05em;
-  line-height: 1.6;
-  color: #111;
-}
+//body {
+//  font-family: 'Edu SA Hand', cursive;
+//  font-size: 1.05em;
+//  line-height: 1.6;
+//  color: #111;
+//}
