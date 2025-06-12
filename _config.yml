@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lizheng Zu's Academic Homepage"
+title                    : "Zu Lizheng"
 description              : "Focus on Knowledge Graphs, Multi-Agent Systems, Large Language Models and Time Series. "
 repository               : "zulihit.github.io"
 google_scholar_stats_use_cdn : true

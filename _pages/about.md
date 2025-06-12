@@ -49,7 +49,7 @@ Zu Lizheng, et al.
 - **SRSCL**: Fine-grained Collective Entity Linking, *Expert Systems with Applications*, 2024  
 - **SelectE**: Multi-scale Adaptive KG Embedding, *Knowledge-Based Systems*, 2024  
 - **PathEL**: Relationship Path-based Linking, *Information Systems*  
-- **DKAMFormer**: Transformer with Domain Knowledge, *IEEE/CAA JAS*, IF=15.3  
+- **DKAMFormer**: Transformer with Domain Knowledge, *IEEE/CAA JAS*  
 
 ---
 
