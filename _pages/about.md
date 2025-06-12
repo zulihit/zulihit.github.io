@@ -30,7 +30,7 @@ I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and P
 ---
 
 ## 🔥 News
-- *2025.04*: 📝 Awarded **Outstanding Graduate of Heilongjiang Province**.  
+- *2025.04*: 🏆 Awarded **Outstanding Graduate of Heilongjiang Province**.  
 - *2025.02*: 📝 Paper on multi-agent collaboration accepted to **CVPR 2025 (CCF A)**.  
 - *2024.12*: 📄 Paper on remaining useful life prediction accepted to **IEEE/CAA JAS (IF: 15.3)**.
 - *2024.11*: 🏆 Awarded **National Scholarship for Graduate Students**.  
