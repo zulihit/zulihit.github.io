@@ -34,9 +34,9 @@ I am fortunate to be supervised by <a href="https://homepage.hit.edu.cn/linlin?l
 <span id="-news"></span>
 ## 🔥 News
 - *2025.04*: 🏆 Awarded **Outstanding Graduate of Heilongjiang Province**.  
-- *2025.02*: 📝 Paper on multi-agent collaboration accepted to **CVPR 2025 (CCF A)**.  
+- *2025.02*: 📄 Paper on multi-agent collaboration accepted to **CVPR 2025 (CCF A)**.  
 - *2024.12*: 📄 Paper on remaining useful life prediction accepted to **IEEE/CAA JAS (IF: 15.3)**.
-- *2024.11*: 🏆 Awarded **National Scholarship for Graduate Students**.  
+- *2024.11*: 🏆 Awarded **Chinese National Scholarship**.  
 - *2024.10*: 🎓 Started joint Ph.D. program with **NTU, Singapore**, under Prof. Siu Cheung Hui.
 - *2024.08*: 📄 Paper on entity linking accepted to **Information Systems (IF: 3, CCF B)**.  
 - *2024.06*: 📄 Paper on time-series anomaly detection accepted to **EAAI (IF: 7.5)**.  
@@ -93,8 +93,8 @@ I am fortunate to be supervised by <a href="https://homepage.hit.edu.cn/linlin?l
 ---
 <span id="-educations"></span>
 ## 📖 Educations
+- *2024.10 – Present*, Joint Ph.D. in the College of Computing and Data Science, Nanyang Technological University, Singapore
 - *2021.09 – Present*, Ph.D. in Mechanical Engineering, Harbin Institute of Technology, China
-- *2024.10 – Present*, Joint Ph.D. in the College of Computing and Data Science, Nanyang Technological University, Singapore  
 - *2020.10 – 2021.01*, Exchange Student in Big Data Program, McGill University, Canada  
 - *2018.09 – 2021.07*, M.S. in Mechanical Engineering, Yanshan University, China 
 - *2013.09 – 2017.06*, B.Eng. in Mechanical Engineering, Yanshan University, China 
@@ -114,7 +114,7 @@ I am fortunate to be supervised by <a href="https://homepage.hit.edu.cn/linlin?l
 - 2024: China National Scholarship (Doctoral Level) 
 - 2024: Outstanding Student of Harbin Institute of Technology
 - 2024: Provincial Silver Award, 5th China "Internet+" Innovation & Entrepreneurship Competition  
-- 2021: Outstanding Graduate of Heilongjiang Province (Master's Level)  
+- 2021: Outstanding Graduate of HeBei Province (Master's Level)  
 - 2021: Excellent Master's Thesis Award
 - 2020: China National Scholarship (Master's Level)  
 
