@@ -91,11 +91,12 @@ I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and P
 ---
 <span id="-educations"></span>
 ## 📖 Educations
-- *2021.09 – Present*, Ph.D. in Mechanical Engineering, HIT  
-- *2024.10 – Present*, Joint Ph.D. in CCDS, NTU  
-- *2018.09 – 2021.07*, M.S. in Mechanical Engineering, YSU 
-- *2013.09 – 2017.06*, B.Eng. in Mechanical Engineering, YSU  
-- *2020.10 – 2021.01*, Exchange Program, McGill University  
+- *2021.09 – Present*, Ph.D. in Mechanical Engineering, Harbin Institute of Technology, China
+- *2024.10 – Present*, Joint Ph.D. in the College of Computing and Data Science, Nanyang Technological University, Singapore  
+- *2018.09 – 2021.07*, M.S. in Mechanical Engineering, Yanshan University, China 
+- *2013.09 – 2017.06*, B.Eng. in Mechanical Engineering, Yanshan University, China 
+- *2020.10 – 2021.01*, Exchange Program, McGill University, Canada  
+
 
 ---
 <span id="-internships"></span>
