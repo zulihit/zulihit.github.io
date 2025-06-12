@@ -65,26 +65,27 @@ I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and P
 [//]: # (</div></div>)
 
 <span id="-leadership-publication-work"></span>
-## 📝 Leadership Publication Work
-1. **Zu L.**, Lin L.\*, Fu S.\*, et al. – *Collaborative Tree Search for Enhancing Embodied Multi‑Agent Collaboration*. In: **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2025: 29513–29522.
+# 📝 Leadership Publication Work
 
-2. **Zu L.**, Lin L.\*, Liu J., et al. – *SRSCL: A Strong‑Relatedness‑Sequence‑Based Fine‑Grained Collective Entity Linking Method for Heterogeneous Information Networks*. *Expert Systems with Applications*, 2024, **238**: 121759.
+1. **Zu L.<sup>*</sup>**, Lin L.<sup>*</sup>, Fu S.<sup>*</sup>, et al. – *Collaborative Tree Search for Enhancing Embodied Multi‑Agent Collaboration*. In: **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2025: 29513–29522.
 
-3. **Zu L.**, Lin L.\*, Fu S., et al. – *SelectE: Multi‑Scale Adaptive Selection Network for Knowledge Graph Representation Learning*. *Knowledge-Based Systems*, 2024, **288**: 111554.
+2. **Zu L.**, Lin L.<sup>*</sup>, Liu J., et al. – *SRSCL: A Strong‑Relatedness‑Sequence‑Based Fine‑Grained Collective Entity Linking Method for Heterogeneous Information Networks*. *Expert Systems with Applications*, 2024, **238**: 121759.
 
-4. **Zu L.**, Lin L.\*, Fu S., Liu J., et al. – *PathEL: A Novel Collective Entity Linking Method Based on Relationship Paths in Heterogeneous Information Networks*. *Information Systems*, 2024, **126**: 102433.
+3. **Zu L.<sup>*</sup>**, Lin L.<sup>*</sup>, Fu S., et al. – *SelectE: Multi‑Scale Adaptive Selection Network for Knowledge Graph Representation Learning*. *Knowledge-Based Systems*, 2024, **288**: 111554.
 
-5. Fu S.\*, Lin L., **Zu L.***, Liu J., et al. – *DKAMFormer: Domain Knowledge‑Augmented Multiscale Transformer for Remaining Useful Life Prediction of Aeroengine*. *IEEE/CAA Journal of Automatica Sinica*, 2024, **11**(5): 1001–1015.
+4. **Zu L.<sup>*</sup>**, Lin L.<sup>*</sup>, Fu S., Liu J., et al. – *PathEL: A Novel Collective Entity Linking Method Based on Relationship Paths in Heterogeneous Information Networks*. *Information Systems*, 2024, **126**: 102433.
 
-6. Lin L., **Zu L.***, Fu S.\*, et al. – *Integrating Adversarial Training Strategies into Deep Autoencoders: A Novel Aeroengine Anomaly Detection Framework*. *Engineering Applications of Artificial Intelligence*, 2024, **128**: 107456.
+5. Fu S.<sup>*</sup>, Lin L., **Zu L.<sup>*</sup>**, et al. – *DKAMFormer: Domain Knowledge‑Augmented Multiscale Transformer for Remaining Useful Life Prediction of Aeroengine*. *IEEE/CAA Journal of Automatica Sinica*, 2024, **11**(5): 1001–1015.
 
-7. Liu J., **Zu L.***, Yan Y., et al. – *Multi‑Filter Soft Shrinkage Network for Knowledge Graph Embedding*. *Expert Systems with Applications*, 2024, **250**: 123875.
+6. Lin L., **Zu L.<sup>*</sup>**, Fu S.<sup>*</sup>, et al. – *Integrating Adversarial Training Strategies into Deep Autoencoders: A Novel Aeroengine Anomaly Detection Framework*. *Engineering Applications of Artificial Intelligence*, 2024, **128**: 107456.
 
-8. Lin L.\*, **Zu L.**, Guo F., et al. – *Using Combinatorial Optimization to Solve Entity Alignment: An Efficient Unsupervised Model*. *Neurocomputing*, 2023, **545**: 126802.
+7. Liu J., **Zu L.<sup>*</sup>**, Yan Y., et al. – *Multi‑Filter Soft Shrinkage Network for Knowledge Graph Embedding*. *Expert Systems with Applications*, 2024, **250**: 123875.
 
-9. Yao J.\*, **Zu L.**, Ruan H., et al. – *A Heavy Load Miniature Six‑Component Force Sensing Mechanism with Hybrid Branches*. *Measurement*, 2020, **157**: 107623.
+8. Lin L.<sup>*</sup>, **Zu L.**, Guo F., et al. – *Using Combinatorial Optimization to Solve Entity Alignment: An Efficient Unsupervised Model*. *Neurocomputing*, 2023, **545**: 126802.
 
-10. Yao J.\*, **Zu L.**, Ruan H., et al. – *Stiffness Modeling and Force Mapping Analysis of Hybrid‑Limb Six‑Axis Force Sensor*. *Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science*, 2020, **234**(22): 4401–4413.
+9. Yao J.<sup>*</sup>, **Zu L.**, Ruan H., et al. – *A Heavy Load Miniature Six‑Component Force Sensing Mechanism with Hybrid Branches*. *Measurement*, 2020, **157**: 107623.
+
+10. Yao J.<sup>*</sup>, **Zu L.**, Ruan H., et al. – *Stiffness Modeling and Force Mapping Analysis of Hybrid‑Limb Six‑Axis Force Sensor*. *Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science*, 2020, **234**(22): 4401–4413.
 
 
 
