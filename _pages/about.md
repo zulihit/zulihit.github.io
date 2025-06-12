@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Zu Lizheng**, a Ph.D. candidate at Harbin Institute of Technology (HIT), jointly supervised by Nanyang Technological University (NTU), Singapore. My research focuses on **knowledge graphs**, **intelligent agents**, **large language models**, and **time series prediction**. I have published 10+ first-author or corresponding-author papers at top-tier conferences and journals, including *CVPR*, *ESWA*, *KBS*, and *IEEE/CAA JAS*.
+I am fourth-year Ph.D. candidate at Harbin Institute of Technology (HIT). 
 
 My research interests include:
 - Knowledge Graph Representation & Completion  
