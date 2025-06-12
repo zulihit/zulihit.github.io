@@ -8,51 +8,88 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am **Zu Lizheng**, currently a Ph.D. candidate at Harbin Institute of Technology (HIT), co-supervised by Nanyang Technological University (NTU), Singapore. My research focuses on **knowledge graphs, intelligent agents, large language models**, and **time series prediction**. I have published over 10 first-author or corresponding-author papers, including top-tier conferences like CVPR and high-impact SCI journals such as *Expert Systems with Applications*, *Knowledge-Based Systems*, and *IEEE/CAA Journal of Automatica Sinica*, with a cumulative impact factor exceeding 60.5.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My academic background includes:
+- **Ph.D. in Mechanical Engineering**, Harbin Institute of Technology (2021.9 – Present)
+- **Joint Ph.D. in NLP**, Nanyang Technological University (2024.10 – Present)
+- **M.S. in Mechatronic Engineering**, Yanshan University (2018.9 – 2021.7, top 5%)
+- **B.Eng. in Mechanical Design and Automation**, Yanshan University (2013.9 – 2017.6, top 30%)
+- **Exchange Program**, McGill University, Data Science Project (2020.10 – 2021.1)
 
+---
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## 🔬 Research Interests
+- Knowledge Graph Representation and Completion  
+- Multi-Agent Planning and Reasoning  
+- Large Language Models in Structured Tasks  
+- Time Series Prediction in Aerospace Engineering  
 
-# 📝 Publications 
+---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## 📑 Selected Publications
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration**. *CVPR 2025*.  
+- **SRSCL**: Fine-grained Collective Entity Linking in HINs. *Expert Systems with Applications*, 2024, IF=7.5.  
+- **SelectE**: Multi-scale Adaptive Network for KG Representation. *Knowledge-Based Systems*, 2024, IF=7.2.  
+- **PathEL**: Relationship Path-based Collective Linking. *Information Systems*.  
+- **DKAMFormer**: Domain Knowledge-Augmented Transformer. *IEEE/CAA JAS*, IF=15.3 (Corresponding Author).  
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+👉 [Google Scholar Profile](https://scholar.google.com/citations?user=DhtAFkwAAAAJ)  
+<span class='show_paper_citations' data='DhtAFkwAAAAJ'></span>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+---
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## 🛠 Projects
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+### 1. Knowledge Graph-Guided Requirement Generation System
+- Led full pipeline from KG construction, Neo4j DB to automatic requirement generation.  
+- Developed embedding and alignment strategies for incomplete and fragmented KGs.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+### 2. Intelligent Fault Diagnosis in Aeroengines
+- Proposed adversarial autoencoder for anomaly detection.  
+- Built KG-enhanced RUL prediction models with interpretability.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+### 3. LLM-based Multi-Agent Planning System
+- Developed MCTS-based LLM agent collaboration at TAL (accepted at CVPR 2025).  
+- Proposed scene-driven story visualization framework for consistent multi-image generation.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+---
+
+## 💼 Internship Experience
+
+- **Zhipu AI**, Multimodal LLM Research Intern (2023.9–2023.12)  
+- **TAL Education**, NLP Algorithm Intern (2024.2–2025.3)  
+
+---
+
+## 🎖 Honors & Awards
+
+- National Scholarship for PhD (2024)  
+- National Scholarship for Master (2020)  
+- Provincial Excellent Graduate (2021)  
+- Excellent Master Thesis Award (2021)  
+- HIT Outstanding Youth League Member (2024)  
+- Nomination for Top 10 Party Branch Secretaries at HIT (2024)  
+- Silver Medal in “Internet+” Innovation Competition (2020)  
+
+---
+
+## 🧠 Skills
+
+- **Programming**: Python, Matlab, Git, Neo4j  
+- **Tools**: LaTeX, Origin, Linux  
+- **Languages**: English (CET-6: 510)  
+
+---
+
+## 🧩 Student Leadership
+
+- Secretary of Ph.D. Party Branch, HIT (2023.5–2024.9)  
+- Head of Organization Department, YSU Graduate Union (2020.9–2021.9)  
+
+---
+
+Feel free to reach me at: **zuli_edu@outlook.com**
