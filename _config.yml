@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zu Lizheng"
   avatar           : "images/me.png"
-  bio              :  "HIT Ph.D. candidate"
+  bio              : "HIT Ph.D. candidate"
   location         : "Singapore"
   employer         :
   pubmed           : 
