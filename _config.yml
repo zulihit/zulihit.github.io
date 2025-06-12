@@ -161,28 +161,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-main:
-  - title: "Homepage"
-    url: /
-
-  - title: "About Me"
-    url: /about/
-
-  - title: "News"
-    url: /#-news
-
-  - title: "Publications"
-    url: /#-leadership-publication-work
-
-  - title: "Educations"
-    url: /#-educations
-
-  - title: "Internships"
-    url: /#-internships
-
-  - title: "Honors and Awards"
-    url: /#-honors-and-awards
-
-  - title: "Contact"
-    url: /#-contact
