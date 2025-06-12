@@ -22,6 +22,7 @@ I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and P
 
 ---
 
+<span id="-interests"></span>
 ## 🤖 Research Interests:
 - Knowledge Graph: knowledge extraction, knowledge representation, entity alignment, entity linking   
 - LLM-based Agents: multi-agent cooperation, role-playing agent
@@ -29,6 +30,7 @@ I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and P
 
 ---
 
+<span id="-news"></span>
 ## 🔥 News
 - *2025.04*: 🏆 Awarded **Outstanding Graduate of Heilongjiang Province**.  
 - *2025.02*: 📝 Paper on multi-agent collaboration accepted to **CVPR 2025 (CCF A)**.  
@@ -62,6 +64,7 @@ I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and P
 [//]: # ()
 [//]: # (</div></div>)
 
+<span id="-leadership-publication-work"></span>
 ## 📝 Leadership Publication Work
 > `*` denotes corresponding author
 
@@ -89,7 +92,7 @@ I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and P
 
 
 ---
-
+<span id="-educations"></span>
 ## 📖 Educations
 - *2021.09 – Present*, Ph.D. in Mechanical Engineering, HIT  
 - *2024.10 – Present*, Joint Ph.D. in CCDS, NTU  
@@ -98,13 +101,13 @@ I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and P
 - *2020.10 – 2021.01*, Exchange Program, McGill University  
 
 ---
-
+<span id="-internships"></span>
 ## 💻 Internships
 - *2023.09 – 2023.12*, Research Intern, AI Technology Center, Zhipu AI
 - *2024.02 – 2025.06*, Research Intern, AIGrowth Lab, TAL
 
 ---
-
+<span id="-honors-and-awards"></span>
 ## 🎖 Honors and Awards
 - 2025: Outstanding Graduate of Heilongjiang Province (Doctoral Level)  
 - 2024: National Scholarship for Doctoral Students  
@@ -115,6 +118,6 @@ I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and P
 - 2020: National Scholarship for Master's Students  
 
 ---
-
+<span id="-contact"></span>
 ## 💬 Contact
 📧 zuli_edu@outlook.com  
