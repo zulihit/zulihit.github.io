@@ -30,19 +30,20 @@ I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and P
 ---
 
 ## 🔥 News
-
-- *2025.02*: 📝 Paper on multi-agent collaboration accepted to **CVPR 2025**.  
-- *2024.12*: 📄 Paper on remaining useful life prediction accepted to **IEEE/CAA JAS (IF: 15.3)**.  
+- *2025.04*: 📝 Awarded **Outstanding Graduate of Heilongjiang Province**.  
+- *2025.02*: 📝 Paper on multi-agent collaboration accepted to **CVPR 2025 (CCF A)**.  
+- *2024.12*: 📄 Paper on remaining useful life prediction accepted to **IEEE/CAA JAS (IF: 15.3)**.
+- *2024.11*: 🏆 Awarded **National Scholarship for Graduate Students**.  
 - *2024.10*: 🎓 Started joint Ph.D. program with **NTU, Singapore**, under Prof. Siu Cheung Hui.
-- *2024.08*: 📄 Paper on entity linking accepted to **Information Systems**.  
-- *2024.06*: 📄 Paper on time-series anomaly detection accepted to **EAAI**.  
-- *2024.03*: 🏫 Started visiting research at **SMU**, working with Prof. Pan Zhou.  
-- *2024.03*: 📄 Paper on knowledge graph embedding accepted to **ESWA**.  
+- *2024.08*: 📄 Paper on entity linking accepted to **Information Systems (IF: 3, CCF B)**.  
+- *2024.06*: 📄 Paper on time-series anomaly detection accepted to **EAAI (IF: 7.5)**.  
+- *2024.03*: 🎓 Started visiting research at **SMU**, working with Prof. Pan Zhou.  
+- *2024.03*: 📄 Paper on knowledge graph embedding accepted to **ESWA (IF: 7.5)**.  
 - *2024.02*: 💼 Joined **TAL** as a research intern.  
-- *2024.02*: 📄 Paper on knowledge graph representation learning accepted to **KBS**.  
-- *2023.10*: 📄 Paper on entity linking accepted to **ESWA**.  
+- *2024.02*: 📄 Paper on knowledge graph representation learning accepted to **KBS (IF: 7.2)**.  
+- *2023.10*: 📄 Paper on entity linking accepted to **ESWA (IF: 7.5)**.  
 - *2023.09*: 💼 Joined **Zhipu AI** as a research intern. 
-- *2023.09*: 📄 Paper on entity alignment accepted to **Neurocomputing**.  
+- *2023.09*: 📄 Paper on entity alignment accepted to **Neurocomputing (IF: 5.5)**.  
 - *2021.09*: 🚀 Started Ph.D. at **Harbin Institute of Technology**, under Prof. Lin Lin and Prof. Song Fu.  
 
 ---
