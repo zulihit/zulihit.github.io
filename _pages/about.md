@@ -1,95 +1,97 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Zu Lizheng | Ph.D. Candidate in AI & Knowledge Graphs"
+excerpt: "Ph.D. candidate focusing on knowledge graphs, intelligent agents, LLMs, and time series modeling."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
 
-I am **Zu Lizheng**, currently a Ph.D. candidate at Harbin Institute of Technology (HIT), co-supervised by Nanyang Technological University (NTU), Singapore. My research focuses on **knowledge graphs, intelligent agents, large language models**, and **time series prediction**. I have published over 10 first-author or corresponding-author papers, including top-tier conferences like CVPR and high-impact SCI journals such as *Expert Systems with Applications*, *Knowledge-Based Systems*, and *IEEE/CAA Journal of Automatica Sinica*, with a cumulative impact factor exceeding 60.5.
+I am **Zu Lizheng**, a Ph.D. candidate at Harbin Institute of Technology (HIT), jointly supervised by Nanyang Technological University (NTU), Singapore. My research focuses on **knowledge graphs**, **intelligent agents**, **large language models**, and **time series prediction**. I have published 10+ first-author or corresponding-author papers at top-tier conferences and journals, including *CVPR*, *ESWA*, *KBS*, and *IEEE/CAA JAS*.
 
-My academic background includes:
-- **Ph.D. in Mechanical Engineering**, Harbin Institute of Technology (2021.9 – Present)
-- **Joint Ph.D. in NLP**, Nanyang Technological University (2024.10 – Present)
-- **M.S. in Mechatronic Engineering**, Yanshan University (2018.9 – 2021.7, top 5%)
-- **B.Eng. in Mechanical Design and Automation**, Yanshan University (2013.9 – 2017.6, top 30%)
-- **Exchange Program**, McGill University, Data Science Project (2020.10 – 2021.1)
+My research interests include:
+- Knowledge Graph Representation & Completion  
+- Multi-Agent Planning & Reasoning  
+- LLMs in Structured Tasks  
+- Time Series Prediction in Aerospace Systems
 
----
-
-## 🔬 Research Interests
-- Knowledge Graph Representation and Completion  
-- Multi-Agent Planning and Reasoning  
-- Large Language Models in Structured Tasks  
-- Time Series Prediction in Aerospace Engineering  
+You can check my Google Scholar here:  
+<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><strong><span id='total_cit'>Google Scholar Citations</span></strong></a>  
+<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 ---
 
-## 📑 Selected Publications
+## 🔥 News
+- *2025.06*: 🎉 One paper accepted to **CVPR 2025** on multi-agent collaboration with LLMs.
+- *2024.10*: 🎓 Started joint Ph.D. program with NTU, Singapore.
 
-- **Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration**. *CVPR 2025*.  
-- **SRSCL**: Fine-grained Collective Entity Linking in HINs. *Expert Systems with Applications*, 2024, IF=7.5.  
-- **SelectE**: Multi-scale Adaptive Network for KG Representation. *Knowledge-Based Systems*, 2024, IF=7.2.  
-- **PathEL**: Relationship Path-based Collective Linking. *Information Systems*.  
-- **DKAMFormer**: Domain Knowledge-Augmented Transformer. *IEEE/CAA JAS*, IF=15.3 (Corresponding Author).  
+---
 
-👉 [Google Scholar Profile](https://scholar.google.com/citations?user=DhtAFkwAAAAJ)  
-<span class='show_paper_citations' data='DhtAFkwAAAAJ'></span>
+## 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="cots" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration**  
+Zu Lizheng, et al.  
+[**Paper**](#) • [**Project**](#)
+
+</div></div>
+
+- **SRSCL**: Fine-grained Collective Entity Linking, *Expert Systems with Applications*, 2024  
+- **SelectE**: Multi-scale Adaptive KG Embedding, *Knowledge-Based Systems*, 2024  
+- **PathEL**: Relationship Path-based Linking, *Information Systems*  
+- **DKAMFormer**: Transformer with Domain Knowledge, *IEEE/CAA JAS*, IF=15.3  
+
+---
+
+## 📖 Educations
+- *2021.09 – Present*, Ph.D. in Mechanical Engineering, HIT  
+- *2024.10 – Present*, Joint Ph.D. in NLP, NTU  
+- *2018.09 – 2021.07*, M.S. in Mechatronic Engineering, YSU (Top 5%)  
+- *2013.09 – 2017.06*, B.Eng. in Mechanical Design, YSU  
+- *2020.10 – 2021.01*, Exchange Program, McGill University  
+
+---
+
+## 💻 Internships
+- *2023.09 – 2023.12*, Research Intern, Zhipu AI (Multimodal LLMs)  
+- *2024.02 – 2025.03*, NLP Algorithm Intern, TAL Education  
+
+---
+
+## 🎖 Honors and Awards
+- National Ph.D. Scholarship (2024)  
+- Excellent Graduate Thesis Award (2021)  
+- Internet+ Silver Award (2020)  
+- Outstanding League Member, HIT (2024)
 
 ---
 
 ## 🛠 Projects
-
-### 1. Knowledge Graph-Guided Requirement Generation System
-- Led full pipeline from KG construction, Neo4j DB to automatic requirement generation.  
-- Developed embedding and alignment strategies for incomplete and fragmented KGs.
-
-### 2. Intelligent Fault Diagnosis in Aeroengines
-- Proposed adversarial autoencoder for anomaly detection.  
-- Built KG-enhanced RUL prediction models with interpretability.
-
-### 3. LLM-based Multi-Agent Planning System
-- Developed MCTS-based LLM agent collaboration at TAL (accepted at CVPR 2025).  
-- Proposed scene-driven story visualization framework for consistent multi-image generation.
-
----
-
-## 💼 Internship Experience
-
-- **Zhipu AI**, Multimodal LLM Research Intern (2023.9–2023.12)  
-- **TAL Education**, NLP Algorithm Intern (2024.2–2025.3)  
-
----
-
-## 🎖 Honors & Awards
-
-- National Scholarship for PhD (2024)  
-- National Scholarship for Master (2020)  
-- Provincial Excellent Graduate (2021)  
-- Excellent Master Thesis Award (2021)  
-- HIT Outstanding Youth League Member (2024)  
-- Nomination for Top 10 Party Branch Secretaries at HIT (2024)  
-- Silver Medal in “Internet+” Innovation Competition (2020)  
+- **KG-Guided Requirement System**: Full pipeline KG + Neo4j + auto-generation  
+- **Aeroengine Fault Diagnosis**: AAE-based anomaly detection + KG-enhanced RUL  
+- **Multi-Agent LLM Planning**: MCTS + CoTS framework, CVPR 2025
 
 ---
 
 ## 🧠 Skills
-
-- **Programming**: Python, Matlab, Git, Neo4j  
-- **Tools**: LaTeX, Origin, Linux  
-- **Languages**: English (CET-6: 510)  
-
----
-
-## 🧩 Student Leadership
-
-- Secretary of Ph.D. Party Branch, HIT (2023.5–2024.9)  
-- Head of Organization Department, YSU Graduate Union (2020.9–2021.9)  
+- Programming: Python, MATLAB, Git, Neo4j  
+- Tools: LaTeX, Origin, Linux  
+- Language: English (CET-6: 510)  
 
 ---
 
-Feel free to reach me at: **zuli_edu@outlook.com**
+## 💬 Contact
+📧 zuli_edu@outlook.com  
+🌐 [Google Scholar](https://scholar.google.com/citations?user=DhtAFkwAAAAJ)
