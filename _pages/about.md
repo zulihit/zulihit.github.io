@@ -70,9 +70,9 @@ I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and P
 
 - [2] **Zu L.**, Lin L.$^{\star}$, Liu J., et al., *SRSCL: A Strong‑Relatedness‑Sequence‑Based Fine‑Grained Collective Entity Linking Method for Heterogeneous Information Networks*, *Expert Systems with Applications*, 2024, **238**: 121759. 
 
-- [3] **Zu L.**$^{\star}$, Lin L.$^{\star}$, Fu S., et al., *SelectE: Multi‑Scale Adaptive Selection Network for Knowledge Graph Representation Learning*, *Knowledge-Based Systems*, 2024, **288**: 111554. 
+- [3] **Zu L.**, Lin L.$^{\star}$, Fu S., et al., *SelectE: Multi‑Scale Adaptive Selection Network for Knowledge Graph Representation Learning*, *Knowledge-Based Systems*, 2024, **288**: 111554. 
 
-- [4] **Zu L.**$^{\star}$, Lin L.$^{\star}$, Fu S., Liu J., et al., *PathEL: A Novel Collective Entity Linking Method Based on Relationship Paths in Heterogeneous Information Networks*, *Information Systems*, 2024, **126**: 102433. 
+- [4] **Zu L.**, Lin L.$^{\star}$, Fu S., Liu J., et al., *PathEL: A Novel Collective Entity Linking Method Based on Relationship Paths in Heterogeneous Information Networks*, *Information Systems*, 2024, **126**: 102433. 
 
 - [5] Fu S.$^{\star}$, Lin L., **Zu L.**$^{\star}$, et al., *DKAMFormer: Domain Knowledge‑Augmented Multiscale Transformer for Remaining Useful Life Prediction of Aeroengine*, *IEEE/CAA Journal of Automatica Sinica*, 2024, **11**(5): 1001–1015. 
 
