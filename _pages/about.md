@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+## About Me
 <span class='anchor' id='about-me'></span>
 
 I am a fourth-year Ph.D. candidate at the School of Mechatronics Engineering, Harbin Institute of Technology (HIT), and currently a joint Ph.D. student at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore.
@@ -23,7 +24,7 @@ I am fortunate to be supervised by <a href="https://homepage.hit.edu.cn/linlin?l
 ---
 
 <span id="-interests"></span>
-## 🤖 Research Interests:
+## 🤖 Research Interests
 - Knowledge Graph: knowledge extraction, knowledge representation, entity alignment, entity linking   
 - LLM-based Agents: multi-agent cooperation, role-playing agent
 - Time Series: anomaly detection, fault diagnosis, remaining life prediction
@@ -69,23 +70,23 @@ I am fortunate to be supervised by <a href="https://homepage.hit.edu.cn/linlin?l
 <sub>$^{\star}$ denotes corresponding author</sub>
 - [1] **Zu L.**, Lin L.$^{\star}$, Fu S.$^{\star}$, et al., *Collaborative Tree Search for Enhancing Embodied Multi‑Agent Collaboration*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025: 29513–29522. 
 
-- [2] **Zu L.**, Lin L.$^{\star}$, Liu J., et al., *SRSCL: A Strong‑Relatedness‑Sequence‑Based Fine‑Grained Collective Entity Linking Method for Heterogeneous Information Networks*, *Expert Systems with Applications*, 2024, **238**: 121759. 
+- [2] **Zu L.**, Lin L.$^{\star}$, Liu J., et al., *SRSCL: A Strong‑Relatedness‑Sequence‑Based Fine‑Grained Collective Entity Linking Method for Heterogeneous Information Networks*, *Expert Systems with Applications*, 2024, 238: 121759. 
 
-- [3] **Zu L.**, Lin L.$^{\star}$, Fu S., et al., *SelectE: Multi‑Scale Adaptive Selection Network for Knowledge Graph Representation Learning*, *Knowledge-Based Systems*, 2024, **288**: 111554. 
+- [3] **Zu L.**, Lin L.$^{\star}$, Fu S., et al., *SelectE: Multi‑Scale Adaptive Selection Network for Knowledge Graph Representation Learning*, *Knowledge-Based Systems*, 2024, 288: 111554. 
 
-- [4] **Zu L.**, Lin L.$^{\star}$, Fu S., Liu J., et al., *PathEL: A Novel Collective Entity Linking Method Based on Relationship Paths in Heterogeneous Information Networks*, *Information Systems*, 2024, **126**: 102433. 
+- [4] **Zu L.**, Lin L.$^{\star}$, Fu S., Liu J., et al., *PathEL: A Novel Collective Entity Linking Method Based on Relationship Paths in Heterogeneous Information Networks*, *Information Systems*, 2024, 126: 102433. 
 
-- [5] Fu S.$^{\star}$, Lin L., **Zu L.**$^{\star}$, et al., *DKAMFormer: Domain Knowledge‑Augmented Multiscale Transformer for Remaining Useful Life Prediction of Aeroengine*, *IEEE/CAA Journal of Automatica Sinica*, 2024, **11**(5): 1001–1015. 
+- [5] Fu S.$^{\star}$, Lin L., **Zu L.**$^{\star}$, et al., *DKAMFormer: Domain Knowledge‑Augmented Multiscale Transformer for Remaining Useful Life Prediction of Aeroengine*, *IEEE/CAA Journal of Automatica Sinica*, 2024, 11(5): 1001–1015. 
 
-- [6] Lin L., **Zu L.**$^{\star}$, Fu S.$^{\star}$, et al., *Integrating Adversarial Training Strategies into Deep Autoencoders: A Novel Aeroengine Anomaly Detection Framework*, *Engineering Applications of Artificial Intelligence*, 2024, **128**: 107456. 
+- [6] Lin L., **Zu L.**$^{\star}$, Fu S.$^{\star}$, et al., *Integrating Adversarial Training Strategies into Deep Autoencoders: A Novel Aeroengine Anomaly Detection Framework*, *Engineering Applications of Artificial Intelligence*, 2024, 128: 107456. 
 
-- [7] Liu J., **Zu L.**$^{\star}$, Yan Y., et al., *Multi‑Filter Soft Shrinkage Network for Knowledge Graph Embedding*, *Expert Systems with Applications*, 2024, **250**: 123875. 
+- [7] Liu J., **Zu L.**$^{\star}$, Yan Y., et al., *Multi‑Filter Soft Shrinkage Network for Knowledge Graph Embedding*, *Expert Systems with Applications*, 2024, 250: 123875. 
 
-- [8] Lin L.$^{\star}$, **Zu L.**, Guo F., et al., *Using Combinatorial Optimization to Solve Entity Alignment: An Efficient Unsupervised Model*, *Neurocomputing*, 2023, **545**: 126802. 
+- [8] Lin L.$^{\star}$, **Zu L.**, Guo F., et al., *Using Combinatorial Optimization to Solve Entity Alignment: An Efficient Unsupervised Model*, *Neurocomputing*, 2023, 545: 126802. 
 
-- [9] Yao J.$^{\star}$, **Zu L.**, Ruan H., et al., *A Heavy Load Miniature Six‑Component Force Sensing Mechanism with Hybrid Branches*, *Measurement*, 2020, **157**: 107623.
+- [9] Yao J.$^{\star}$, **Zu L.**, Ruan H., et al., *A Heavy Load Miniature Six‑Component Force Sensing Mechanism with Hybrid Branches*, *Measurement*, 2020, 157: 107623.
 
-- [10] Yao J.$^{\star}$, **Zu L.**, Ruan H., et al., *Stiffness Modeling and Force Mapping Analysis of Hybrid‑Limb Six‑Axis Force Sensor*, *Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science*, 2020, **234**(22): 4401–4413. 
+- [10] Yao J.$^{\star}$, **Zu L.**, Ruan H., et al., *Stiffness Modeling and Force Mapping Analysis of Hybrid‑Limb Six‑Axis Force Sensor*, *Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science*, 2020, 234(22): 4401–4413. 
 
 
 
