@@ -17,17 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am fourth-year Ph.D. candidate at Harbin Institute of Technology (HIT). 
+I am a fourth-year Ph.D. candidate at the School of Mechatronics Engineering, Harbin Institute of Technology (HIT), and currently a joint Ph.D. student at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore.
+I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and Prof. Siu Cheung Hui at NTU. I have also closely collaborated with Prof. Pan Zhou.
 
-My research interests include:
-- Knowledge Graph Representation & Completion  
-- Multi-Agent Planning & Reasoning  
-- LLMs in Structured Tasks  
-- Time Series Prediction in Aerospace Systems
+---
 
-You can check my Google Scholar here:  
-<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><strong><span id='total_cit'>Google Scholar Citations</span></strong></a>  
-<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+Research Interests:
+- Knowledge Graph: knowledge extraction, knowledge representation, entity alignment, entity linking   
+- LLM-based Agents: multi-agent cooperation, role-playing agent
+- Time Series: anomaly detection, fault diagnosis, remaining life prediction
 
 ---
 
