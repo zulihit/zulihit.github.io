@@ -66,8 +66,6 @@ I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and P
 
 <span id="-leadership-publication-work"></span>
 ## 📝 Leadership Publication Work
-> `*` denotes corresponding author
-
 1. **Zu L.**, Lin L.\*, Fu S.\*, et al. – *Collaborative Tree Search for Enhancing Embodied Multi‑Agent Collaboration*. In: **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2025: 29513–29522.
 
 2. **Zu L.**, Lin L.\*, Liu J., et al. – *SRSCL: A Strong‑Relatedness‑Sequence‑Based Fine‑Grained Collective Entity Linking Method for Heterogeneous Information Networks*. *Expert Systems with Applications*, 2024, **238**: 121759.
