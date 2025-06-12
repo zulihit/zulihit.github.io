@@ -22,7 +22,7 @@ I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and P
 
 ---
 
-Research Interests:
+## 🤖 Research Interests:
 - Knowledge Graph: knowledge extraction, knowledge representation, entity alignment, entity linking   
 - LLM-based Agents: multi-agent cooperation, role-playing agent
 - Time Series: anomaly detection, fault diagnosis, remaining life prediction
