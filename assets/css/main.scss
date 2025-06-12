@@ -9,6 +9,7 @@
  *  - https://twitter.com/mmistakes
  *
 */
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Hand&display=swap');
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
@@ -39,6 +40,7 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
 
 .paper-box {
     display: flex;
@@ -106,4 +108,12 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+
+body {
+  font-family: 'Edu SA Hand', cursive;
+  font-size: 1.05em;
+  line-height: 1.6;
+  color: #111;
 }
