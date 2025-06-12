@@ -120,16 +120,16 @@ I am fortunate to be supervised by Prof. Lin Lin and Prof. Song Fu at HIT, and P
 
 ## 📖 Educations
 - *2021.09 – Present*, Ph.D. in Mechanical Engineering, HIT  
-- *2024.10 – Present*, Joint Ph.D. in NLP, NTU  
-- *2018.09 – 2021.07*, M.S. in Mechatronic Engineering, YSU 
-- *2013.09 – 2017.06*, B.Eng. in Mechanical Design, YSU  
+- *2024.10 – Present*, Joint Ph.D. in CCDS, NTU  
+- *2018.09 – 2021.07*, M.S. in Mechanical Engineering, YSU 
+- *2013.09 – 2017.06*, B.Eng. in Mechanical Engineering, YSU  
 - *2020.10 – 2021.01*, Exchange Program, McGill University  
 
 ---
 
 ## 💻 Internships
 - *2023.09 – 2023.12*, Research Intern, Zhipu AI
-- *2024.02 – 2025.06*, NLP Algorithm Intern, TAL
+- *2024.02 – 2025.06*, Research Intern, TAL
 
 ---
 
