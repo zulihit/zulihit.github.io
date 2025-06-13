@@ -93,7 +93,7 @@ I am fortunate to be supervised by <a href="https://homepage.hit.edu.cn/linlin?l
 ---
 <span id="-educations"></span>
 ## 📖 Educations
-- *2024.10 – Present*, Joint Ph.D. in the College of Computing and Data Science, Nanyang Technological University, Singapore
+- *2024.09 – Present*, Joint Ph.D. in the College of Computing and Data Science, Nanyang Technological University, Singapore
 - *2021.09 – Present*, Ph.D. in the School of Mechatronics Engineering, Harbin Institute of Technology, China
 - *2020.10 – 2021.01*, Exchange Student in Big Data Program, McGill University, Canada  
 - *2018.09 – 2021.07*, M.S. in the School of Mechanical Engineering, Yanshan University, China 
