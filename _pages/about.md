@@ -25,7 +25,7 @@ I am fortunate to be supervised by <a href="https://homepage.hit.edu.cn/linlin?l
 
 <span id="-interests"></span>
 ## 🤖 Research Interests
-- Knowledge Graph: knowledge extraction, knowledge representation, entity alignment, entity linking   
+- Knowledge Graph: knowledge extraction, retrieval-augmented generation, knowledge representation, entity alignment, entity linking   
 - LLM-based Agents: multi-agent cooperation, role-playing agent
 - Time Series: anomaly detection, fault diagnosis, remaining life prediction
 
