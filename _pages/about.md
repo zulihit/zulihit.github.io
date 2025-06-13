@@ -18,14 +18,14 @@ redirect_from:
 ## About Me
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a fourth-year Ph.D. candidate at the School of Mechatronics Engineering, Harbin Institute of Technology (HIT), and currently a joint Ph.D. student at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore.
+Hi, I am a final-year Ph.D. candidate at the School of Mechatronics Engineering, Harbin Institute of Technology (<a href="https://www.hit.edu.cn/">HIT</a>), and currently a joint Ph.D. student at the College of Computing and Data Science, Nanyang Technological University (<a href="https://www.ntu.edu.sg/">NTU</a>), Singapore.
 I am fortunate to be supervised by <a href="https://homepage.hit.edu.cn/linlin?lang=zh">Prof. Lin Lin</a> and <a href="https://homepage.hit.edu.cn/fusong?lang=zh">Prof. Song Fu</a> at HIT, and <a href="https://personal.ntu.edu.sg/asschui/">Prof. Siu Cheung Hui</a> at NTU. I have also closely collaborated with <a href="https://panzhous.github.io/">Prof. Pan Zhou</a>.
 
 ---
 
 <span id="-interests"></span>
 ## 🤖 Research Interests
-- Knowledge Graph: knowledge extraction, graphrag, knowledge representation, entity alignment, entity linking   
+- Knowledge Graph: graphrag, knowledge extraction, knowledge representation, entity alignment, entity linking   
 - LLM-based Agents: multi-agent cooperation, role-playing agent
 - Time Series: anomaly detection, fault diagnosis, remaining life prediction
 
