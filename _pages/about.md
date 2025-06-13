@@ -25,7 +25,7 @@ I am fortunate to be supervised by <a href="https://homepage.hit.edu.cn/linlin?l
 
 <span id="-interests"></span>
 ## 🤖 Research Interests
-- Knowledge Graph: knowledge extraction, retrieval-augmented generation, knowledge representation, entity alignment, entity linking   
+- Knowledge Graph: knowledge extraction, graphrag, knowledge representation, entity alignment, entity linking   
 - LLM-based Agents: multi-agent cooperation, role-playing agent
 - Time Series: anomaly detection, fault diagnosis, remaining life prediction
 
@@ -96,8 +96,8 @@ I am fortunate to be supervised by <a href="https://homepage.hit.edu.cn/linlin?l
 - *2024.10 – Present*, Joint Ph.D. in the College of Computing and Data Science, Nanyang Technological University, Singapore
 - *2021.09 – Present*, Ph.D. in the School of Mechatronics Engineering, Harbin Institute of Technology, China
 - *2020.10 – 2021.01*, Exchange Student in Big Data Program, McGill University, Canada  
-- *2018.09 – 2021.07*, M.S. in Mechanical Engineering, Yanshan University, China 
-- *2013.09 – 2017.06*, B.Eng. in Mechanical Engineering, Yanshan University, China 
+- *2018.09 – 2021.07*, M.S. in the School of Mechanical Engineering, Yanshan University, China 
+- *2013.09 – 2017.06*, B.Eng. in the School of Mechanical Engineering, Yanshan University, China 
 
 
 
