@@ -26,7 +26,7 @@ I have also closely collaborated with <a href="https://panzhous.github.io/">Prof
 
 <span style="color:#ff6600; font-weight:bold; font-size:17px;">
 🔥 I am actively seeking academic (faculty or postdoctoral) or industry research positions in China or worldwide.  
-My research interests are in <b>AI for Engineering</b> or <b>LLM-based Intelligent Agents</b>.
+My research interests are in <b>AI for Engineering</b> or <b>LLM-based Agents</b>.
 </span>
 
 ---
