@@ -23,7 +23,7 @@ I am fortunate to be supervised by <a href="https://homepage.hit.edu.cn/linlin?l
 I have also closely collaborated with <a href="https://panzhous.github.io/">Prof. Pan Zhou</a>.
 
 <span style="color:#ff6600; font-weight:bold; font-size:17px;">
-🔥 I am actively seeking academic (faculty or postdoctoral) or industry positions in China or worldwide.  
+I am actively seeking academic (faculty or postdoctoral) or industry positions in China or worldwide.  
 My research interests include <b>Knowledge Graphs</b>，<b>AI for Engineering</b> (time-series analysis, performance prediction, fault diagnosis) and <b>LLM-based Agents</b>.
 </span>
 
