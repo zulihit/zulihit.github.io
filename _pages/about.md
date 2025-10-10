@@ -22,8 +22,6 @@ Hi, I am a final-year Ph.D. candidate at the School of Mechatronics Engineering,
 I am fortunate to be supervised by <a href="https://homepage.hit.edu.cn/linlin?lang=zh">Prof. Lin Lin</a> and <a href="https://homepage.hit.edu.cn/fusong?lang=zh">Prof. Song Fu</a> at HIT, and <a href="https://personal.ntu.edu.sg/asschui/">Prof. Siu Cheung Hui</a> at NTU.  
 I have also closely collaborated with <a href="https://panzhous.github.io/">Prof. Pan Zhou</a>.
 
-<br>
-
 <span style="color:#ff6600; font-weight:bold; font-size:17px;">
 🔥 I am actively seeking academic (faculty or postdoctoral) or industry research positions in China or worldwide.  
 My research interests include <b>Knowledge Graphs</b>，<b>AI for Engineering</b> (time-series analysis, performance prediction, fault diagnosis) and <b>LLM-based Agents</b>.
