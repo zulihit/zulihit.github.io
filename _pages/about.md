@@ -105,9 +105,9 @@ My research interests include <b>Knowledge Graphs</b>，<b>AI for Engineering</b
 ---
 <span id="-internships"></span>
 ## 💻 Internships
-- *2023.09 – 2023.12*, Research Intern, AI Technology Center, Zhipu AI
-- *2024.02 – 2025.06*, Research Intern, AIGrowth Lab, TAL
-- *2025.10 – Present*, Research Intern, IntelliDraw Space, Guangming Laboratory
+- *2023.09 – 2023.12*, Research Intern, Zhipu AI
+- *2024.02 – 2025.06*, Research Intern, TAL
+- *2025.10 – Present*, Research Intern, Guangming Laboratory
 
 ---
 <span id="-honors-and-awards"></span>
