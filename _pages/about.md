@@ -98,12 +98,8 @@ My research interests include <b>Knowledge Graphs</b>，<b>AI for Engineering</b
 ---
 <span id="-educations"></span>
 ## 📖 Educations
-- *2024.09 – Present*, Joint Ph.D. in the College of Computing and Data Science, Nanyang Technological University, Singapore
+- *2024.09 – 2025.09*, Joint Ph.D. in the College of Computing and Data Science, Nanyang Technological University, Singapore
 - *2021.09 – Present*, Ph.D. in the School of Mechatronics Engineering, Harbin Institute of Technology, China
-- *2020.10 – 2021.01*, Exchange Student in Big Data Program, McGill University, Canada  
-- *2018.09 – 2021.07*, M.S. in the School of Mechanical Engineering, Yanshan University, China 
-- *2013.09 – 2017.06*, B.Eng. in the School of Mechanical Engineering, Yanshan University, China 
-
 
 
 ---
@@ -111,15 +107,16 @@ My research interests include <b>Knowledge Graphs</b>，<b>AI for Engineering</b
 ## 💻 Internships
 - *2023.09 – 2023.12*, Research Intern, AI Technology Center, Zhipu AI
 - *2024.02 – 2025.06*, Research Intern, AIGrowth Lab, TAL
+- *2025.10 – Present*, Research Intern, IntelliDraw Space, Guangming Laboratory
 
 ---
 <span id="-honors-and-awards"></span>
 ## 🎖 Honors and Awards
 - 2025: Outstanding Graduate of Heilongjiang Province (Doctoral Level)  
-- 2024: China National Scholarship (Doctoral Level) 
+- 2024: Provincial Outstanding Graduate (Master’s Level)
 - 2024: Outstanding Student of Harbin Institute of Technology
 - 2024: Provincial Silver Award, 5th China "Internet+" Innovation & Entrepreneurship Competition  
-- 2021: Outstanding Graduate of HeBei Province (Master's Level)  
+- 2021: Provincial Outstanding Graduate (Master’s Level)
 - 2021: Excellent Master's Thesis Award
 - 2020: China National Scholarship (Master's Level)  
 
