@@ -38,6 +38,7 @@ My research interests include <b>Knowledge Graphs</b>，<b>AI for Engineering</b
 
 <span id="-news"></span>
 ## 🔥 News
+- *2025.10*: 💼 Joined **Guangming Laboratory** as a research intern, working with Dr. Ming Li. 
 - *2025.04*: 🏆 Awarded **Outstanding Graduate of Heilongjiang Province**.  
 - *2025.02*: 📄 Paper on multi-agent collaboration accepted to **CVPR 2025 (CCF A)**.  
 - *2024.12*: 📄 Paper on remaining useful life prediction accepted to **IEEE/CAA JAS (IF: 19.2)**.
@@ -47,10 +48,10 @@ My research interests include <b>Knowledge Graphs</b>，<b>AI for Engineering</b
 - *2024.06*: 📄 Paper on time-series anomaly detection accepted to **EAAI (IF: 8)**.  
 - *2024.03*: 🎓 Started visiting research at **SMU, Singapore**, working with Prof. Pan Zhou.  
 - *2024.03*: 📄 Paper on knowledge graph embedding accepted to **ESWA (IF: 7.5)**.  
-- *2024.02*: 💼 Joined **TAL** as a research intern.  
+- *2024.02*: 💼 Joined **TAL** as a research intern, working with Dr. Jianjin Xu.  
 - *2024.02*: 📄 Paper on knowledge graph representation learning accepted to **KBS (IF: 7.6)**.  
 - *2023.10*: 📄 Paper on entity linking accepted to **ESWA (IF: 7.5)**.  
-- *2023.09*: 💼 Joined **Zhipu AI** as a research intern. 
+- *2023.09*: 💼 Joined **Zhipu AI** as a research intern, working with Dr. Dingxiao Liu. 
 - *2023.09*: 📄 Paper on entity alignment accepted to **Neurocomputing (IF: 6.5)**.  
 - *2021.09*: 🚀 Started Ph.D. at **Harbin Institute of Technology**, under Prof. Lin Lin and Prof. Song Fu.  
 
