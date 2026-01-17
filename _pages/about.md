@@ -31,13 +31,14 @@ My research interests include <b>Knowledge Graphs</b>，<b>AI for Engineering</b
 <span id="-interests"></span>
 ## 🤖 Research Interests
 - Knowledge Graph: graphrag, knowledge extraction, knowledge representation, entity alignment, entity linking   
-- LLM-based Agents: multi-agent cooperation, role-playing agent
+- LLM-based Agents: multi-agent cooperation, gui agent
 - Time Series: anomaly detection, fault diagnosis, remaining life prediction
 
 ---
 
 <span id="-news"></span>
 ## 🔥 News
+- *2026.01*: 📄 Paper on story visualization accepted to **IEEE ICASSP (CCF B)**.
 - *2025.10*: 💼 Joined **Guangming Laboratory** as a research intern, working with Dr. Ming Li. 
 - *2025.04*: 🏆 Awarded **Outstanding Graduate of Heilongjiang Province**.  
 - *2025.02*: 📄 Paper on multi-agent collaboration accepted to **CVPR 2025 (CCF A)**.  
@@ -74,25 +75,27 @@ My research interests include <b>Knowledge Graphs</b>，<b>AI for Engineering</b
 <span id="-leadership-publication-work"></span>
 # 📝 Publications
 <sub>$^{\star}$ denotes corresponding author</sub>
-- [1] **Zu L.**, Lin L.$^{\star}$, Fu S.$^{\star}$, et al., *Collaborative Tree Search for Enhancing Embodied Multi‑Agent Collaboration*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025: 29513–29522. 
+- [1] **Zu L.**, Lin L.$^{\star}$, Fu S.$^{\star}$, et al., *Collaborative Tree Search for Enhancing Embodied Multi‑Agent Collaboration*, *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2025: 29513–29522. 
 
 - [2] **Zu L.**, Lin L.$^{\star}$, Liu J., et al., *SRSCL: A Strong‑Relatedness‑Sequence‑Based Fine‑Grained Collective Entity Linking Method for Heterogeneous Information Networks*, *Expert Systems with Applications*, 2024, 238: 121759. 
 
 - [3] **Zu L.**, Lin L.$^{\star}$, Fu S., et al., *SelectE: Multi‑Scale Adaptive Selection Network for Knowledge Graph Representation Learning*, *Knowledge-Based Systems*, 2024, 288: 111554. 
 
-- [4] **Zu L.**, Lin L.$^{\star}$, Fu S., Liu J., et al., *PathEL: A Novel Collective Entity Linking Method Based on Relationship Paths in Heterogeneous Information Networks*, *Information Systems*, 2024, 126: 102433. 
+- [4] **Zu L.**, Lin L.$^{\star}$, Fu S., Liu J., et al., *PathEL: A Novel Collective Entity Linking Method Based on Relationship Paths in Heterogeneous Information Networks*, *Information Systems*, 2024, 126: 102433.
 
-- [5] Fu S.$^{\star}$, Lin L., **Zu L.**$^{\star}$, et al., *DKAMFormer: Domain Knowledge‑Augmented Multiscale Transformer for Remaining Useful Life Prediction of Aeroengine*, *IEEE/CAA Journal of Automatica Sinica*, 2024, 11(5): 1001–1015. 
+- [5] **Zu L.**, Jin Y.$^{\star}$, Cao S., Suo S., et al., *End-to-end story visualization framework with penalty-based evaluation using vision-language models*, *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026. 
 
-- [6] Lin L., **Zu L.**$^{\star}$, Fu S.$^{\star}$, et al., *Integrating Adversarial Training Strategies into Deep Autoencoders: A Novel Aeroengine Anomaly Detection Framework*, *Engineering Applications of Artificial Intelligence*, 2024, 128: 107456. 
+- [6] Fu S.$^{\star}$, Lin L., **Zu L.**$^{\star}$, et al., *DKAMFormer: Domain Knowledge‑Augmented Multiscale Transformer for Remaining Useful Life Prediction of Aeroengine*, *IEEE/CAA Journal of Automatica Sinica*, 2024, 11(5): 1001–1015. 
 
-- [7] Liu J., **Zu L.**$^{\star}$, Yan Y., et al., *Multi‑Filter Soft Shrinkage Network for Knowledge Graph Embedding*, *Expert Systems with Applications*, 2024, 250: 123875. 
+- [7] Lin L., **Zu L.**$^{\star}$, Fu S.$^{\star}$, et al., *Integrating Adversarial Training Strategies into Deep Autoencoders: A Novel Aeroengine Anomaly Detection Framework*, *Engineering Applications of Artificial Intelligence*, 2024, 128: 107456. 
 
-- [8] Lin L.$^{\star}$, **Zu L.**, Guo F., et al., *Using Combinatorial Optimization to Solve Entity Alignment: An Efficient Unsupervised Model*, *Neurocomputing*, 2023, 545: 126802. 
+- [8] Liu J., **Zu L.**$^{\star}$, Yan Y., et al., *Multi‑Filter Soft Shrinkage Network for Knowledge Graph Embedding*, *Expert Systems with Applications*, 2024, 250: 123875. 
 
-- [9] Yao J.$^{\star}$, **Zu L.**, Ruan H., et al., *A Heavy Load Miniature Six‑Component Force Sensing Mechanism with Hybrid Branches*, *Measurement*, 2020, 157: 107623.
+- [9] Lin L.$^{\star}$, **Zu L.**, Guo F., et al., *Using Combinatorial Optimization to Solve Entity Alignment: An Efficient Unsupervised Model*, *Neurocomputing*, 2023, 545: 126802. 
 
-- [10] Yao J.$^{\star}$, **Zu L.**, Ruan H., et al., *Stiffness Modeling and Force Mapping Analysis of Hybrid‑Limb Six‑Axis Force Sensor*, *Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science*, 2020, 234(22): 4401–4413. 
+- [10] Yao J.$^{\star}$, **Zu L.**, Ruan H., et al., *A Heavy Load Miniature Six‑Component Force Sensing Mechanism with Hybrid Branches*, *Measurement*, 2020, 157: 107623.
+
+- [11] Yao J.$^{\star}$, **Zu L.**, Ruan H., et al., *Stiffness Modeling and Force Mapping Analysis of Hybrid‑Limb Six‑Axis Force Sensor*, *Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science*, 2020, 234(22): 4401–4413. 
 
 
 
@@ -113,13 +116,13 @@ My research interests include <b>Knowledge Graphs</b>，<b>AI for Engineering</b
 ---
 <span id="-honors-and-awards"></span>
 ## 🎖 Honors and Awards
-- 2025: Outstanding Graduate of Heilongjiang Province (Doctoral Level)  
-- 2024: Provincial Outstanding Graduate (Master’s Level)
-- 2024: Outstanding Student of Harbin Institute of Technology
+- 2025: Provincial Outstanding Graduate (Ph.D.)
+- 2024: China National Scholarship (Ph.D.)
+- 2024: Outstanding Student Award, Harbin Institute of Technology
 - 2024: Provincial Silver Award, 5th China "Internet+" Innovation & Entrepreneurship Competition  
-- 2021: Provincial Outstanding Graduate (Master’s Level)
-- 2021: Excellent Master's Thesis Award
-- 2020: China National Scholarship (Master's Level)  
+- 2021: Provincial Outstanding Graduate (M.S.)
+- 2021: Excellent Master’s Thesis Award
+- 2020: China National Scholarship (M.S.)
 
 
 ---
