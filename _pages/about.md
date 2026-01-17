@@ -121,7 +121,7 @@ My research interests include <b>Knowledge Graphs</b>，<b>AI for Engineering</b
 - 2024: Outstanding Student Award, Harbin Institute of Technology
 - 2024: Provincial Silver Award, 5th China "Internet+" Innovation & Entrepreneurship Competition  
 - 2021: Provincial Outstanding Graduate (M.S.)
-- 2021: Excellent Master’s Thesis Award
+- 2021: Excellent Thesis Award (M.S.)
 - 2020: China National Scholarship (M.S.)
 
 
