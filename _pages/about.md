@@ -83,7 +83,7 @@ My research interests include <b>Knowledge Graphs</b>，<b>AI for Engineering</b
 
 - [4] **Zu L.**, Lin L.$^{\star}$, Fu S., Liu J., et al., *PathEL: A Novel Collective Entity Linking Method Based on Relationship Paths in Heterogeneous Information Networks*, *Information Systems*, 2024, 126: 102433.
 
-- [5] **Zu L.**, Jin Y.$^{\star}$, Cao S., Suo S., et al., *End-to-end story visualization framework with penalty-based evaluation using vision-language models*, *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026. 
+- [5] **Zu L.**, Jin Y., Cao S., Suo S., et al., *End-to-end story visualization framework with penalty-based evaluation using vision-language models*, *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026. 
 
 - [6] Fu S.$^{\star}$, Lin L., **Zu L.**$^{\star}$, et al., *DKAMFormer: Domain Knowledge‑Augmented Multiscale Transformer for Remaining Useful Life Prediction of Aeroengine*, *IEEE/CAA Journal of Automatica Sinica*, 2024, 11(5): 1001–1015. 
 
