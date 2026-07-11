@@ -219,6 +219,43 @@ body {
   color: #657282;
 }
 
+.news-list ul,
+.publication-list ul {
+  margin-top: 1rem;
+  padding-left: 0;
+  list-style: none;
+}
+
+.news-list li,
+.publication-list li {
+  margin-bottom: 0.75rem;
+  padding: 0.78rem 0.95rem 0.78rem 1.05rem;
+  border: 1px solid #e9eef4;
+  border-left: 3px solid #b6cae4;
+  border-radius: 7px;
+  background: #fbfcfe;
+  box-shadow: 0 6px 18px rgba(31, 42, 55, 0.035);
+}
+
+.publication-list li {
+  border-left-color: #224b8d;
+}
+
+.news-list li {
+  border-left-color: #0f766e;
+}
+
+.news-list li:hover,
+.publication-list li:hover {
+  background: #fff;
+  box-shadow: 0 10px 24px rgba(31, 42, 55, 0.065);
+}
+
+.news-list strong,
+.publication-list strong {
+  color: #152233;
+}
+
 .sidebar {
   margin-top: 0;
 }
