@@ -31,9 +31,9 @@ During my Ph.D., I was fortunate to be supervised by <a href="https://homepage.h
 ## 🤖 Research Interests
 <div class="interest-list" markdown="1">
 
-- Knowledge Graph: graphrag, knowledge extraction, knowledge representation, entity alignment, entity linking   
-- LLM-based Agents: multi-agent cooperation, gui agent
-- Time Series: anomaly detection, fault diagnosis, remaining life prediction
+- **LLM-based Agents**: multi-agent cooperation, gui agent
+- **Knowledge Graph**: graphrag, knowledge extraction, knowledge representation, entity alignment, entity linking   
+- **Time Series**: anomaly detection, fault diagnosis, remaining life prediction
 
 </div>
 
@@ -139,7 +139,7 @@ During my Ph.D., I was fortunate to be supervised by <a href="https://homepage.h
 ---
 <span id="-honors-and-awards"></span>
 ## 🎖 Honors and Awards
-<div class="resume-list" markdown="1">
+<div class="resume-list honors-list" markdown="1">
 
 - 2025: Provincial Outstanding Graduate (Ph.D.)
 - 2024: China National Scholarship (Ph.D.)

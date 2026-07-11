@@ -267,19 +267,33 @@ body {
   margin-top: 1rem;
 }
 
+.honors-list {
+  max-height: 250px;
+  overflow-y: auto;
+  padding: 0.95rem 1rem 0.95rem 1.15rem;
+  border: 1px solid #e1e6ee;
+  border-radius: 7px;
+  background: #fdfefe;
+  scrollbar-color: #8f98a3 #eef2f7;
+  scrollbar-width: thin;
+}
+
 .news-list::-webkit-scrollbar,
-.publication-list::-webkit-scrollbar {
+.publication-list::-webkit-scrollbar,
+.honors-list::-webkit-scrollbar {
   width: 8px;
 }
 
 .news-list::-webkit-scrollbar-track,
-.publication-list::-webkit-scrollbar-track {
+.publication-list::-webkit-scrollbar-track,
+.honors-list::-webkit-scrollbar-track {
   border-radius: 999px;
   background: #eef2f7;
 }
 
 .news-list::-webkit-scrollbar-thumb,
-.publication-list::-webkit-scrollbar-thumb {
+.publication-list::-webkit-scrollbar-thumb,
+.honors-list::-webkit-scrollbar-thumb {
   border-radius: 999px;
   background: #8f98a3;
 }
@@ -439,7 +453,8 @@ body {
   }
 
   .news-list,
-  .publication-list {
+  .publication-list,
+  .honors-list {
     max-height: none;
     overflow-y: visible;
     padding: 0;
