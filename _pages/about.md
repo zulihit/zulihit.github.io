@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Zu Lizheng | Ph.D. Candidate in AI & Knowledge Graphs"
-excerpt: "Ph.D. candidate focusing on knowledge graphs, intelligent agents, LLMs, and time series modeling."
+title: "Zu Lizheng | Assistant Professor in AI & Knowledge Graphs"
+excerpt: "Assistant Professor focusing on knowledge graphs, intelligent agents, LLMs, and time series modeling."
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,8 +18,8 @@ redirect_from:
 ## About Me
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a final-year Ph.D. candidate at the School of Mechatronics Engineering, Harbin Institute of Technology (<a href="https://www.hit.edu.cn/">HIT</a>), and a joint Ph.D. student at the College of Computing and Data Science, Nanyang Technological University (<a href="https://www.ntu.edu.sg/">NTU</a>), Singapore.  
-I am fortunate to be supervised by <a href="https://homepage.hit.edu.cn/linlin?lang=zh">Prof. Lin Lin</a> and <a href="https://homepage.hit.edu.cn/fusong?lang=zh">Prof. Song Fu</a> at HIT, and <a href="https://scholar.google.com/citations?user=d4ZYx6gAAAAJ&hl">Prof. Siu Cheung Hui</a> at NTU. I have also closely collaborated with <a href="https://panzhous.github.io/">Prof. Pan Zhou</a>.
+Hi, I am an Assistant Professor at the College of Electronics and Information Engineering, Shenzhen University (<a href="https://en.szu.edu.cn/">SZU</a>). I received my Ph.D. from the School of Mechatronics Engineering, Harbin Institute of Technology (<a href="https://www.hit.edu.cn/">HIT</a>), and was a joint Ph.D. student at the College of Computing and Data Science, Nanyang Technological University (<a href="https://www.ntu.edu.sg/">NTU</a>), Singapore.  
+During my Ph.D., I was fortunate to be supervised by <a href="https://homepage.hit.edu.cn/linlin?lang=zh">Prof. Lin Lin</a> and <a href="https://homepage.hit.edu.cn/fusong?lang=zh">Prof. Song Fu</a> at HIT, and <a href="https://scholar.google.com/citations?user=d4ZYx6gAAAAJ&hl">Prof. Siu Cheung Hui</a> at NTU. I have also closely collaborated with <a href="https://panzhous.github.io/">Prof. Pan Zhou</a>.
 
 ---
 
@@ -33,6 +33,8 @@ I am fortunate to be supervised by <a href="https://homepage.hit.edu.cn/linlin?l
 
 <span id="-news"></span>
 ## 🔥 News
+- *2026.07*: 💼 Joined **Shenzhen University** as an Assistant Professor.
+- *2026.07*: 📄 Paper on image quality assessment accepted to **ACM MM 2026**.
 - *2026.01*: 📄 Paper on story visualization accepted to **IEEE ICASSP (CCF B)**.
 - *2025.10*: 💼 Joined **Guangming Laboratory** as a research intern, working with Dr. Ming Li. 
 - *2025.04*: 🏆 Awarded **Outstanding Graduate of Heilongjiang Province**.  
@@ -98,7 +100,7 @@ I am fortunate to be supervised by <a href="https://homepage.hit.edu.cn/linlin?l
 <span id="-educations"></span>
 ## 📖 Educations
 - *2024.09 – 2025.09*, Joint Ph.D. in the College of Computing and Data Science, Nanyang Technological University, Singapore
-- *2021.09 – Present*, Ph.D. in the School of Mechatronics Engineering, Harbin Institute of Technology, China
+- *2021.09 – 2026.06*, Ph.D. in the School of Mechatronics Engineering, Harbin Institute of Technology, China
 
 
 ---
