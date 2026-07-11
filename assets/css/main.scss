@@ -219,15 +219,55 @@ body {
   color: #657282;
 }
 
-.news-list ul,
-.publication-list ul {
+.news-list,
+.publication-list {
   margin-top: 1rem;
+  overflow-y: auto;
+  padding-right: 0.45rem;
+  scrollbar-color: #b6cae4 #eef2f7;
+  scrollbar-width: thin;
+}
+
+.news-list {
+  max-height: 430px;
+}
+
+.publication-list {
+  max-height: 660px;
+}
+
+.resume-list {
+  margin-top: 1rem;
+}
+
+.news-list::-webkit-scrollbar,
+.publication-list::-webkit-scrollbar {
+  width: 8px;
+}
+
+.news-list::-webkit-scrollbar-track,
+.publication-list::-webkit-scrollbar-track {
+  border-radius: 999px;
+  background: #eef2f7;
+}
+
+.news-list::-webkit-scrollbar-thumb,
+.publication-list::-webkit-scrollbar-thumb {
+  border-radius: 999px;
+  background: #b6cae4;
+}
+
+.news-list ul,
+.publication-list ul,
+.resume-list ul {
+  margin: 0;
   padding-left: 0;
   list-style: none;
 }
 
 .news-list li,
-.publication-list li {
+.publication-list li,
+.resume-list li {
   margin-bottom: 0.75rem;
   padding: 0.78rem 0.95rem 0.78rem 1.05rem;
   border: 1px solid #e9eef4;
@@ -245,14 +285,20 @@ body {
   border-left-color: #0f766e;
 }
 
+.resume-list li {
+  border-left-color: #8a6f35;
+}
+
 .news-list li:hover,
-.publication-list li:hover {
+.publication-list li:hover,
+.resume-list li:hover {
   background: #fff;
   box-shadow: 0 10px 24px rgba(31, 42, 55, 0.065);
 }
 
 .news-list strong,
-.publication-list strong {
+.publication-list strong,
+.resume-list strong {
   color: #152233;
 }
 
@@ -287,6 +333,31 @@ body {
 
 .author__name {
   color: #152233;
+}
+
+.author__email {
+  margin: 0.7rem 0 0;
+}
+
+.author__email a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  width: 100%;
+  padding: 0.55rem 0.65rem;
+  border: 1px solid #dbe5f1;
+  border-radius: 7px;
+  background: #f8fbff;
+  color: #224b8d;
+  font-size: 0.95rem;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.author__email a:hover {
+  border-color: #b6cae4;
+  background: #fff;
+  color: #0f766e;
 }
 
 .author__bio,

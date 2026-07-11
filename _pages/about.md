@@ -110,20 +110,29 @@ During my Ph.D., I was fortunate to be supervised by <a href="https://homepage.h
 ---
 <span id="-educations"></span>
 ## 📖 Educations
+<div class="resume-list" markdown="1">
+
 - *2024.09 – 2025.09*, Joint Ph.D. in the College of Computing and Data Science, Nanyang Technological University, Singapore
 - *2021.09 – 2026.06*, Ph.D. in the School of Mechatronics Engineering, Harbin Institute of Technology, China
 
+</div>
 
 ---
 <span id="-internships"></span>
 ## 💻 Internships
+<div class="resume-list" markdown="1">
+
 - *2023.09 – 2023.12*, Research Intern, Zhipu AI
 - *2024.02 – 2025.06*, Research Intern, TAL
 - *2025.10 – Present*, Research Intern, Guangming Laboratory
 
+</div>
+
 ---
 <span id="-honors-and-awards"></span>
 ## 🎖 Honors and Awards
+<div class="resume-list" markdown="1">
+
 - 2025: Provincial Outstanding Graduate (Ph.D.)
 - 2024: China National Scholarship (Ph.D.)
 - 2024: Outstanding Student Award, Harbin Institute of Technology
@@ -132,8 +141,4 @@ During my Ph.D., I was fortunate to be supervised by <a href="https://homepage.h
 - 2021: Excellent Thesis Award (M.S.)
 - 2020: China National Scholarship (M.S.)
 
-
----
-<span id="-contact"></span>
-## 💬 Contact
-📧 zuli_edu@outlook.com  
+</div>
