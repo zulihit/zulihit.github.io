@@ -32,8 +32,8 @@ During my Ph.D., I was fortunate to be supervised by <a href="https://homepage.h
 <div class="interest-list" markdown="1">
 
 - **LLM-based Agents**: multi-agent cooperation, gui agent
-- **Knowledge Graph**: graphrag, knowledge extraction, knowledge representation, entity alignment, entity linking   
-- **Time Series**: anomaly detection, fault diagnosis, remaining life prediction
+- **Knowledge Graph**: graphrag, knowledge representation
+- **Time Series**: anomaly detection, remaining life prediction
 
 </div>
 
