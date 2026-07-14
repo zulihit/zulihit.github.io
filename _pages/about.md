@@ -44,7 +44,7 @@ During my Ph.D., I was fortunate to be supervised by <a href="https://homepage.h
 <div class="news-list" markdown="1">
 
 - *2026.07*: 💼 Joined **Shenzhen University** as an Assistant Professor.
-- *2026.07*: 📄 Paper on image quality assessment accepted to **ACM MM 2026**.
+- *2026.07*: 📄 Paper on image quality assessment accepted to **ACM MM 2026 (CCF A)**.
 - *2026.01*: 📄 Paper on story visualization accepted to **IEEE ICASSP (CCF B)**.
 - *2025.10*: 💼 Joined **Guangming Laboratory** as a research intern, working with Dr. Ming Li. 
 - *2025.04*: 🏆 Awarded **Outstanding Graduate of Heilongjiang Province**.  
@@ -87,29 +87,31 @@ During my Ph.D., I was fortunate to be supervised by <a href="https://homepage.h
 
 <div class="publication-list" markdown="1">
 
-- [1] **Zu L.**, Li X., Suo S., Lan X., Li Y., *Deductive Evidence-Guided Visual Expert Modulation for AI-Generated Image Quality Assessment*, *Proceedings of the ACM International Conference on Multimedia (ACM MM)*, 2026.
+- [1] **Zu L.**, Li X., Suo S., Lan X., Li Y., *Deductive Evidence-Guided Visual Expert Modulation for AI-Generated Image Quality Assessment*, *Proceedings of the ACM International Conference on Multimedia (ACM MM, CCF A)*, 2026.
 
-- [2] **Zu L.**, Lin L.$^{\star}$, Fu S.$^{\star}$, et al., *Collaborative Tree Search for Enhancing Embodied Multi‑Agent Collaboration*, *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2025: 29513–29522. 
+- [2] Xing W., Zha Q., **Zu L.**, Li M., Li M., Yan J., *Learning to Decode Against Compositional Hallucination in Video Multimodal Large Language Models*, *International Conference on Machine Learning (ICML, CCF A)*, 2026.
 
-- [3] **Zu L.**, Lin L.$^{\star}$, Liu J., et al., *SRSCL: A Strong‑Relatedness‑Sequence‑Based Fine‑Grained Collective Entity Linking Method for Heterogeneous Information Networks*, *Expert Systems with Applications*, 2024, 238: 121759. 
+- [3] **Zu L.**, Lin L.$^{\star}$, Fu S.$^{\star}$, et al., *Collaborative Tree Search for Enhancing Embodied Multi‑Agent Collaboration*, *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF A)*, 2025: 29513–29522. 
 
-- [4] **Zu L.**, Lin L.$^{\star}$, Fu S., et al., *SelectE: Multi‑Scale Adaptive Selection Network for Knowledge Graph Representation Learning*, *Knowledge-Based Systems*, 2024, 288: 111554. 
+- [4] **Zu L.**, Lin L.$^{\star}$, Liu J., et al., *SRSCL: A Strong‑Relatedness‑Sequence‑Based Fine‑Grained Collective Entity Linking Method for Heterogeneous Information Networks*, *Expert Systems with Applications*, 2024, 238: 121759. 
 
-- [5] **Zu L.**, Lin L.$^{\star}$, Fu S., Liu J., et al., *PathEL: A Novel Collective Entity Linking Method Based on Relationship Paths in Heterogeneous Information Networks*, *Information Systems*, 2024, 126: 102433.
+- [5] **Zu L.**, Lin L.$^{\star}$, Fu S., et al., *SelectE: Multi‑Scale Adaptive Selection Network for Knowledge Graph Representation Learning*, *Knowledge-Based Systems*, 2024, 288: 111554. 
 
-- [6] **Zu L.**, Jin Y., Cao S., Suo S., et al., *End-to-end story visualization framework with penalty-based evaluation using vision-language models*, *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026. 
+- [6] **Zu L.**, Lin L.$^{\star}$, Fu S., Liu J., et al., *PathEL: A Novel Collective Entity Linking Method Based on Relationship Paths in Heterogeneous Information Networks*, *Information Systems*, 2024, 126: 102433.
 
-- [7] Fu S.$^{\star}$, Lin L., **Zu L.**$^{\star}$, et al., *DKAMFormer: Domain Knowledge‑Augmented Multiscale Transformer for Remaining Useful Life Prediction of Aeroengine*, *IEEE/CAA Journal of Automatica Sinica*, 2024, 11(5): 1001–1015. 
+- [7] **Zu L.**, Jin Y., Cao S., Suo S., et al., *End-to-end story visualization framework with penalty-based evaluation using vision-language models*, *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026. 
 
-- [8] Lin L., **Zu L.**$^{\star}$, Fu S.$^{\star}$, et al., *Integrating Adversarial Training Strategies into Deep Autoencoders: A Novel Aeroengine Anomaly Detection Framework*, *Engineering Applications of Artificial Intelligence*, 2024, 128: 107456. 
+- [8] Fu S.$^{\star}$, Lin L., **Zu L.**$^{\star}$, et al., *DKAMFormer: Domain Knowledge‑Augmented Multiscale Transformer for Remaining Useful Life Prediction of Aeroengine*, *IEEE/CAA Journal of Automatica Sinica*, 2024, 11(5): 1001–1015. 
 
-- [9] Liu J., **Zu L.**$^{\star}$, Yan Y., et al., *Multi‑Filter Soft Shrinkage Network for Knowledge Graph Embedding*, *Expert Systems with Applications*, 2024, 250: 123875. 
+- [9] Lin L., **Zu L.**$^{\star}$, Fu S.$^{\star}$, et al., *Integrating Adversarial Training Strategies into Deep Autoencoders: A Novel Aeroengine Anomaly Detection Framework*, *Engineering Applications of Artificial Intelligence*, 2024, 128: 107456. 
 
-- [10] Lin L.$^{\star}$, **Zu L.**, Guo F., et al., *Using Combinatorial Optimization to Solve Entity Alignment: An Efficient Unsupervised Model*, *Neurocomputing*, 2023, 545: 126802. 
+- [10] Liu J., **Zu L.**$^{\star}$, Yan Y., et al., *Multi‑Filter Soft Shrinkage Network for Knowledge Graph Embedding*, *Expert Systems with Applications*, 2024, 250: 123875. 
 
-- [11] Yao J.$^{\star}$, **Zu L.**, Ruan H., et al., *A Heavy Load Miniature Six‑Component Force Sensing Mechanism with Hybrid Branches*, *Measurement*, 2020, 157: 107623.
+- [11] Lin L.$^{\star}$, **Zu L.**, Guo F., et al., *Using Combinatorial Optimization to Solve Entity Alignment: An Efficient Unsupervised Model*, *Neurocomputing*, 2023, 545: 126802. 
 
-- [12] Yao J.$^{\star}$, **Zu L.**, Ruan H., et al., *Stiffness Modeling and Force Mapping Analysis of Hybrid‑Limb Six‑Axis Force Sensor*, *Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science*, 2020, 234(22): 4401–4413. 
+- [12] Yao J.$^{\star}$, **Zu L.**, Ruan H., et al., *A Heavy Load Miniature Six‑Component Force Sensing Mechanism with Hybrid Branches*, *Measurement*, 2020, 157: 107623.
+
+- [13] Yao J.$^{\star}$, **Zu L.**, Ruan H., et al., *Stiffness Modeling and Force Mapping Analysis of Hybrid‑Limb Six‑Axis Force Sensor*, *Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science*, 2020, 234(22): 4401–4413. 
 
 </div>
 
