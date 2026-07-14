@@ -88,11 +88,11 @@ During my Ph.D., I was fortunate to be supervised by <a href="https://homepage.h
 
 <div class="publication-list" markdown="1">
 
-- [1] **Zu L.**, Li X., Suo S., Lan X., Li Y., *Deductive Evidence-Guided Visual Expert Modulation for AI-Generated Image Quality Assessment*, *Proceedings of the ACM International Conference on Multimedia (ACM MM, CCF A)*, 2026.
+- [1] **Zu L.**, Li X., Suo S., Lan X., Li Y., *Deductive Evidence-Guided Visual Expert Modulation for AI-Generated Image Quality Assessment*, *Proceedings of the ACM International Conference on Multimedia (ACM MM)*, 2026.
 
-- [2] Xing W., Zha Q., **Zu L.**, Li M., Li M., Yan J., *Learning to Decode Against Compositional Hallucination in Video Multimodal Large Language Models*, *International Conference on Machine Learning (ICML, CCF A)*, 2026.
+- [2] Xing W., Zha Q., **Zu L.**, Li M., Li M., Yan J., *Learning to Decode Against Compositional Hallucination in Video Multimodal Large Language Models*, *International Conference on Machine Learning (ICML)*, 2026.
 
-- [3] **Zu L.**, Lin L.$^{\star}$, Fu S.$^{\star}$, et al., *Collaborative Tree Search for Enhancing Embodied Multi‑Agent Collaboration*, *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF A)*, 2025: 29513–29522. 
+- [3] **Zu L.**, Lin L.$^{\star}$, Fu S.$^{\star}$, et al., *Collaborative Tree Search for Enhancing Embodied Multi‑Agent Collaboration*, *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2025: 29513–29522. 
 
 - [4] **Zu L.**, Lin L.$^{\star}$, Liu J., et al., *SRSCL: A Strong‑Relatedness‑Sequence‑Based Fine‑Grained Collective Entity Linking Method for Heterogeneous Information Networks*, *Expert Systems with Applications*, 2024, 238: 121759. 
 
