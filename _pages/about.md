@@ -45,8 +45,8 @@ During my Ph.D., I was fortunate to be supervised by <a href="https://homepage.h
 
 - *2026.07*: 💼 Joined **Shenzhen University** as an Assistant Professor.
 - *2026.07*: 📄 Paper on image quality assessment accepted to **ACM MM 2026 (CCF A)**.
-- *2026.05*: 📄 Paper on VLLM Hallucination accepted to **ICML 2026 (CCF A)**.
-- *2026.01*: 📄 Paper on story visualization accepted to **IEEE ICASSP (CCF B)**.
+- *2026.05*: 📄 Paper on VLLM hallucination accepted to **ICML 2026 (CCF A)**.
+- *2026.01*: 📄 Paper on story visualization accepted to **ICASSP 2026 (CCF B)**.
 - *2025.10*: 💼 Joined **Guangming Laboratory** as a research intern, working with Dr. Ming Li. 
 - *2025.04*: 🏆 Awarded **Outstanding Graduate of Heilongjiang Province**.  
 - *2025.02*: 📄 Paper on multi-agent collaboration accepted to **CVPR 2025 (CCF A)**.  
